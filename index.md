@@ -1,7 +1,5 @@
 # Request a word to be added
-<form
-  action="https://formspree.io/f/mjvlwelb"
-  method="POST">
+<form action="https://formspree.io/f/mjvlwelb" method="POST">
   <label>
     Your email:
     <input type="email" name="email">
