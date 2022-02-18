@@ -5,8 +5,8 @@
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    What word would you like to be added to the list?
+    <input>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
