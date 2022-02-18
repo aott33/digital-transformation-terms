@@ -1,7 +1,7 @@
 # Definition List
 Missing a term? Click the icon in the bottom right corner of the page to put in a request.
 
-<button onclick="window.location.href='/form.md'">Request new term</button>
+<button onclick="window.location.href='https://aott33.github.io/digital-transformation-terms/form.md'">Request new term</button>
 
 [Request a new term](/form.md)
 
