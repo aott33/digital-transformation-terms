@@ -37,14 +37,14 @@ The definition list table was created as a spreadsheet and then converted to a m
       { 
         type: "email", 
         label: "Email:", 
-        name: "email",
+        name: "Email",
         required: true,
         placeholder: "your@email.com"
       },
       {
         type: "text",
         label: "Term/Acronym:",
-        name: "term",
+        name: "Term/Acronym",
         placeholder: "Requested term/acronym",
       },
       { type: "submit" }      
