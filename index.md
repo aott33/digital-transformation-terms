@@ -1,7 +1,8 @@
 # Definition List
 Missing a term? Click the icon in the bottom right corner of the page to put in a request.
 
-<button type="button" name="button" class="btn">Request new term</button>
+<button onclick="window.location.href='/form.html'">Request new term</button>
+
 [Link button](/form.html){: .btn }
 
 | Term                   | Definition                                                                                                                                                                                                                                                                                                                                                                                                                   | Source                                                                                                                                                                                                                              |
