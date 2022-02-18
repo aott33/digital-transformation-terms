@@ -43,9 +43,9 @@ The definition list table was created as a spreadsheet and then converted to a m
       },
       {
         type: "text",
-        label: "Word:",
-        name: "word",
-        placeholder: "Requested word",
+        label: "Term/Acronym:",
+        name: "term",
+        placeholder: "Requested term/acronym",
       },
       { type: "submit" }      
     ],
