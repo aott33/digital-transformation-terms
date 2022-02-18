@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 
 title: "Digital Transformation Terms"
+github:
+  is_project_page: false
