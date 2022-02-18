@@ -3,7 +3,12 @@
 
 <dl>
   <dt>Agile</dt>
-  <dd>Agility is all about being able to adjust to how your knowledge expands</dd>
+  <dd>
+      <ul>
+        <li>Agility is all about being able to adjust to how your knowledge expands</li>
+        <li>Source: </li>
+    </ul>
+  </dd>
   
   <dt>Easier to use</dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
