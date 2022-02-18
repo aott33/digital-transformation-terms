@@ -23,38 +23,4 @@ Missing a term? Click the icon in the bottom right corner of the page to put in 
 # Resources
 The definition list table was created as a spreadsheet and then converted to a markdwon table using the [Table to Markdown](https://tabletomarkdown.com/) tool
 
-<!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
-<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  /* paste this line in verbatim */
-  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-  /* customize formbutton below*/     
-  formbutton("create", {
-    action: "https://formspree.io/f/mjvlwelb",
-    title: "Missing a term?",
-    fields: [
-      { 
-        type: "email", 
-        label: "Email:", 
-        name: "email",
-        required: true,
-        placeholder: "your@email.com"
-      },
-      {
-        type: "text",
-        label: "Word:",
-        name: "word",
-        placeholder: "Requested word",
-      },
-      { type: "submit" }      
-    ],
-    styles: {
-      title: {
-        backgroundColor: "gray"
-      },
-      button: {
-        backgroundColor: "gray"
-      }
-    }
-  });
-</script>
+<script src="https://github.com/aott33/digital-transformation-terms/blob/main/js/form.js"></script>
