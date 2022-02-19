@@ -1,4 +1,4 @@
-# Definition List
+# Glossary of Digital Transformation Terms
 Is this list missing a term? Click the icon in the bottom right corner of the page to put in a request.
 
 | Term                   | Definition                                                                                                                                                                                                                                                 | Source                                                                                                                                                                                                                              |
