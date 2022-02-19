@@ -38,7 +38,7 @@ The definition list table was created as a spreadsheet and then converted to a m
         type: "email", 
         label: "Email:", 
         name: "Email",
-        required: true,
+        required: false,
         placeholder: "your@email.com"
       },
       {
