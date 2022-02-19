@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
+theme: "minima"
+# theme: jekyll-theme-slate
 
 title: "Digital Transformation Terms"
 github:
