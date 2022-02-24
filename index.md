@@ -23,6 +23,7 @@ Is this list missing a term? Click the icon in the bottom right corner of the pa
 
 # Resources
 - The definition list table was created as a spreadsheet and then converted to a markdwon table using the [Table to Markdown](https://tabletomarkdown.com/) tool
+- [Complete glossary of Digital Transformation Terms](https://quixy.com/blog/complete-glossary-of-digital-transformation-terms/)
 
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
