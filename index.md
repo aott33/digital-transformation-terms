@@ -22,7 +22,8 @@ Is this list missing a term? Click the icon in the bottom right corner of the pa
 | UNS                    | • Unified Namespace<br>• Single source of truth for all data in your business<br>• The structure of all the business data in one place<br>• All data for the entire business in one place for all applications to be able to consume from                  | [What is the UNIFIED NAMESPACE? (@3:23)](https://youtu.be/PB_9HIgSCWc?t=203)                                                                                                                                                        |
 
 # Resources
-The definition list table was created as a spreadsheet and then converted to a markdwon table using the [Table to Markdown](https://tabletomarkdown.com/) tool
+- The definition list table was created as a spreadsheet and then converted to a markdwon table using the [Table to Markdown](https://tabletomarkdown.com/) tool
+- [Complete glossary of Digital Transformation Terms](https://quixy.com/blog/complete-glossary-of-digital-transformation-terms/)
 
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
